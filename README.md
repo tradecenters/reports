@@ -1,12 +1,15 @@
 # TradeCenters
 
-## Reports
-This repository is created to publish and keep records of public reports.
+## 📊 Public Reports Archive
 
-To find more information, please follow the links below:
+Welcome to the **TradeCenters** repository — a dedicated space for publishing and preserving publicly accessible financial and trading reports.
 
-https://www.tradecenters.xyz
+### 🔗 Useful Links
 
-https://www.civivest.com
+- 🌐 [TradeCenters Website](https://www.tradecenters.xyz)  
+- 🏛️ [Civivest Official Site](https://www.civivest.com)
 
-Copyright © 2025. Licensed to Civivest Limited UK. All rights reserved.
+---
+
+© 2025 Civivest Limited, UK. All rights reserved.  
+Licensed to Civivest Limited under applicable intellectual property laws.
