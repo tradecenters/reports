@@ -11,5 +11,5 @@ Welcome to the **TradeCenters** repository — a dedicated space for publishing 
 
 ---
 
-© 2025 Civivest Limited, UK. All rights reserved.  
-Licensed to Civivest Limited under applicable intellectual property laws.
+© 2025 TradeCenters. All rights reserved.  
+Licensed to Civivest Limited UK under applicable intellectual property laws.
