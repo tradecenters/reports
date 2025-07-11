@@ -24,7 +24,7 @@ By continuing to use this repository and our services, you acknowledge and accep
 - 🏛️ [Civivest Official Site](https://www.civivest.com)
 
 ---
-[TradeCenters "Terms of Use"](https://www.tradecenters.co.uk/en/terms-of-use)
+TradeCenters ["Terms of Use"](https://www.tradecenters.co.uk/en/terms-of-use)
  and ["Disclaimer"](https://www.tradecenters.co.uk/en/disclaimer)
 
 © 2025 TradeCenters. All rights reserved.  
