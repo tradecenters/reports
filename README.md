@@ -14,7 +14,7 @@ Past performance is not indicative of future results. Trading cryptocurrencies a
 
 Access to this content may be restricted for users residing in jurisdictions where TradeCenters does not have authorization to operate.
 
-By continuing to use this page and our services, you acknowledge and accept these terms.
+By continuing to use this repository and our services, you acknowledge and accept these terms.
 
 
 
@@ -25,6 +25,7 @@ By continuing to use this page and our services, you acknowledge and accept thes
 
 ---
 [TradeCenters "Terms of Use"](https://www.tradecenters.co.uk/en/terms-of-use)
+["Disclaimer"](https://www.tradecenters.co.uk/en/disclaimer)
 
 © 2025 TradeCenters. All rights reserved.  
 Licensed to Civivest Limited UK under applicable intellectual property laws.
