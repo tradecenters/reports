@@ -20,7 +20,7 @@ By continuing to use this repository and our services, you acknowledge and accep
 
 ### 🔗 Useful Links
 
-- 🌐 [TradeCenters Website](https://www.tradecenters.co.uk)
+- 🌐 [TradeCenters Website](https://www.tradecenters.xyz)
 
 ---
 TradeCenters ["Terms of Use"](https://www.tradecenters.xyz/en/terms-of-use)
