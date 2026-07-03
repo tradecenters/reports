@@ -21,11 +21,9 @@ By continuing to use this repository and our services, you acknowledge and accep
 ### 🔗 Useful Links
 
 - 🌐 [TradeCenters Website](https://www.tradecenters.co.uk)
-- 🏛️ [Civivest Official Site](https://www.civivest.com)
 
 ---
-TradeCenters ["Terms of Use"](https://www.tradecenters.co.uk/en/terms-of-use)
- and ["Disclaimer"](https://www.tradecenters.co.uk/en/disclaimer)
+TradeCenters ["Terms of Use"](https://www.tradecenters.xyz/en/terms-of-use)
+ and ["Disclaimer"](https://www.tradecenters.xyz/en/disclaimer)
 
 © 2025 TradeCenters. All rights reserved.  
-Licensed to Civivest Limited UK under applicable intellectual property laws.
