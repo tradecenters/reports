@@ -1,0 +1,10 @@
+The following is a Base64-encoded, encrypted binary containing trade information:
+
+ZpPreLn7ptphkkL2ucxb/KOkA5STJndaxYe6JdbxxjD5nNcFyDfNj+kb/YnRiV6clYeZXD3iG3NCycGI7O//UzqNh+GZAhoIhLXOczviTXPR1bxPfHdA/6b1cvVKiLojA3RE6HwaT9m8tfjPwkJErJQ2CnRnchlmuRNNGpLAg38ejwgVkCwIwppv191LG1w/kn0f+pYsr8his5TgiT9ufZAP7En7ygYsAOk1YanB4f3uVwsxL2MaIBWS7O5HBZIjBJsOXSFSu2ANWYX6dO+L17mwjlCrrwOP/OX0EYMCFyJ4vSko3N9CehxV/UAe5oI4cb5N7SpT0lv6FQW4Q0qULrM1SDWwA7olIiKR/eVSGiZrKfo1iaNF9uFbMNfTog==
+
+Time (UTC): 2026-11-27T22:12:27.327268670Z
+
+For decryption keys and instructions, please visit our website:
+https://www.tradecenters.xyz/en/analytics
+
+© 2026 TradeCenters. All rights reserved.
